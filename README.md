@@ -73,5 +73,8 @@ export default defineConfig([
 ])
 ```
 =======
+<img width="214" height="401" alt="image" src="https://github.com/user-attachments/assets/c1b9c380-4e50-4d87-ba6f-805d57a7aaf9" />
+<img width="214" height="401" alt="image" src="https://github.com/user-attachments/assets/c1b9c380-4e50-4d87-ba6f-805d57a7aaf9" />
+
 # strangerdeep
 >>>>>>> 6c09c248a30eae931a0b626bc529d5d3c35205b9
