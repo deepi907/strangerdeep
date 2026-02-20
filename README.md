@@ -83,3 +83,5 @@ export default defineConfig([
 
 # strangerdeep
 >>>>>>> 6c09c248a30eae931a0b626bc529d5d3c35205b9
+>>>>>>> juat an random idea convert into code
+>>>>>>> 
